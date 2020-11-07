@@ -1,0 +1,3 @@
+To see the report, go to https://citadel-datathon-2020.herokuapp.com/
+
+If that doesn't work, follow the instructions in the README.md provided with the code
