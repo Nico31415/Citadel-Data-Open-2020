@@ -1,6 +1,6 @@
 # Citadel-Data-Open-2020
 
-Participant in the 'Data Open', a hackathon organised by Citadel, an American quantitative hedge fund.  
+Participant in the 'Data Open', a hackathon organised by Citadel, an American quantitative hedge fund. Competed with undergraduate, graduate and PhD students at top universities. Selection based on CV and Mathematics assessment.
 
 Our goal was to use census data from New York City in order to analyse patterns related to the gentrification process. More broadly, we considered if and how quickly gentrification tends to happen and where it does (or doesn’t) happen.
 
